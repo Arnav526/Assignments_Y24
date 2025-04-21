@@ -1,2 +1,2 @@
 # Assignments_Y24
-Common Training Assignments of Y24 JTMs
+Arnav Gupta (240189)
